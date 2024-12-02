@@ -1,4 +1,3 @@
 This is just
 New feature-branch
 stash a message
-To fetch and rebase
