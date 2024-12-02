@@ -3,3 +3,4 @@ New feature-branch
 stash a message
 To fetch and rebase
 merging with commit for the second time
+hello world 3rd rebase
