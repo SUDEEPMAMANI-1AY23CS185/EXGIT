@@ -1,3 +1,9 @@
 This is just
 New feature-branch
 stash a message
+<<<<<<< Updated upstream
+=======
+To fetch and rebase
+merging with commit for the second time
+stashing for the 2nd
+>>>>>>> Stashed changes
