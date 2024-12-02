@@ -2,3 +2,4 @@ This is just
 New feature-branch
 stash a message
 To fetch and rebase
+merging with commit for the second time
